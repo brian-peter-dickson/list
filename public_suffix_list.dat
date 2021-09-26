@@ -310,7 +310,7 @@ store.bb
 tv.bb
 
 // bd : https://en.wikipedia.org/wiki/.bd
-// Enumerating SLDs and one 3LD entry for convenience.
+// Enumerating SLDs for convenience.
 *.bd
 ac.bd
 co.bd
@@ -323,7 +323,6 @@ net.bd
 org.bd
 sw.bd
 tv.bd
-judiciary.org.bd
 
 // be : https://en.wikipedia.org/wiki/.be
 // Confirmed by registry <tech@dns.be> 2008-06-08
@@ -745,8 +744,15 @@ md.ci
 gouv.ci
 
 // ck : https://en.wikipedia.org/wiki/.ck
-// Enumerating SLDs and one 3LD entry for convenience.
+// ck : https://www.vodafone.co.ck/domain-admin-policy
+// Enumerating SLDs for convenience.
 *.ck
+biz.ck
+co.ck
+edu.ck
+gen.ck
+net.ck
+org.ck
 !www.ck
 
 // cl : https://www.nic.cl
@@ -982,8 +988,15 @@ org.eg
 sci.eg
 
 // er : https://en.wikipedia.org/wiki/.er
-// Enumerating SLDs and one 3LD entry for convenience.
+// Enumerating SLDs for convenience.
 *.er
+com.er
+edu.er
+gov.er
+ind.er
+mil.er
+net.er
+org.er
 
 // es : https://www.nic.es/site_ingles/ingles/dominios/index.html
 es
@@ -1031,8 +1044,14 @@ org.fj
 pro.fj
 
 // fk : https://en.wikipedia.org/wiki/.fk
-// Enumerating SLDs and one 3LD entry for convenience.
+// Enumerating SLDs for convenience.
 *.fk
+ac.fk
+co.fk
+gov.fk
+net.fk
+nom.fk
+org.fk
 
 // fm : https://en.wikipedia.org/wiki/.fm
 com.fm
@@ -1836,7 +1855,7 @@ net.je
 org.je
 
 // jm : http://www.com.jm/register.html
-// Enumerating SLDs and one 3LD entry for convenience.
+// Enumerating SLDs for convenience.
 *.jm
 com.jm
 edu.jm
@@ -3682,7 +3701,7 @@ mil.kg
 
 // kh : http://www.mptc.gov.kh/dns_registration.htm
 // kh : https://www.trc.gov.kh/en/dns-registration/ has current list
-// Enumerating SLDs and one 3LD entry for convenience.
+// Enumerating SLDs for convenience.
 *.kh
 com.kh
 edu.kh
@@ -3982,7 +4001,7 @@ org.ml
 presse.ml
 
 // mm : https://en.wikipedia.org/wiki/.mm
-// Enumerating SLDs and one 3LD entry for convenience.
+// Enumerating SLDs for convenience.
 *.mm
 com.mm
 edu.mm
@@ -5510,7 +5529,7 @@ valer.hedmark.no
 våler.hedmark.no
 
 // np : http://www.mos.com.np/register.html
-// Enumerating SLDs and one 3LD entry for convenience.
+// Enumerating SLDs for convenience.
 *.np
 aero.np
 asia.np
@@ -5616,7 +5635,7 @@ org.pf
 edu.pf
 
 // pg : https://en.wikipedia.org/wiki/.pg
-// Enumerating SLDs and one 3LD entry for convenience.
+// Enumerating SLDs for convenience.
 *.pg
 ac.pg
 com.pg
