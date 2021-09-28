@@ -968,7 +968,15 @@ org.eg
 sci.eg
 
 // er : https://en.wikipedia.org/wiki/.er
+// Enumerating SLDs for convenience.
 *.er
+com.er
+edu.er
+gov.er
+ind.er
+mil.er
+net.er
+org.er
 
 // es : https://www.nic.es/site_ingles/ingles/dominios/index.html
 es
